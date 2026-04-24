@@ -1,0 +1,8 @@
+<svg viewBox="80 130 330 145" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Preneed Pilot symbol</title>
+  <desc id="desc">Minimal geometric mark with two rising bands.</desc>
+  <g transform="translate(90,92)">
+    <polygon points="0,148 278,110 263,164 4,172" fill="#2F6A34"/>
+    <polygon points="68,108 308,49 294,94 83,126" fill="#BF9440"/>
+  </g>
+</svg>
