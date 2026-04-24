@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Preneed Pilot icon</title>
+  <desc id="desc">Preneed Pilot geometric symbol on a cream background.</desc>
+  <rect width="512" height="512" fill="#F5F5F0"/>
+  <g transform="translate(74 150) scale(1.18)">
+    <polygon points="0,148 278,110 263,164 4,172" fill="#414E26"/>
+    <polygon points="68,108 308,49 294,94 83,126" fill="#414E26"/>
+  </g>
+</svg>
